@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###Cytometry In R
+
+Location: Cambridge, UK
+
+My Favorite Fluorophore/Metal-Isotope: BV421
+
+Previous Coding Experience: None
+
+What I Hope to Get From This Course: Basic flow analysis skills
